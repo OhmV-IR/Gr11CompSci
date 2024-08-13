@@ -1,0 +1,50 @@
+ActionScript
+Ada
+Algol
+Alice
+APL
+AppleScript
+Arduino
+Assembly
+Awk
+Bash
+(Visual) Basic
+Bourne Shell
+C
+C Shell
+C#
+C++
+Clojure
+COBOL
+ColdFusion
+Common Lisp
+Delphi/Object Pascal
+Erlang
+Forth
+Fortran
+Haskell
+HyperTalk
+Java
+JavaScript
+Lisp
+Logo
+Lua
+Modula-3
+Oberon
+OCaml
+Pascal
+Perl
+PHP
+Processing
+Prolog
+Python
+R
+Ruby
+Scala
+Scheme
+Scratch
+Smalltalk
+SPSS
+Tcl
+Turing
+Visual Basic .NET

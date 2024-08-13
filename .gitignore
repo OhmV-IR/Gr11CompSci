@@ -1,0 +1,8 @@
+/Testing program/
+results.txt
+tests.txt
+logfile.txt
+__pycache__
+*.ppm
+*.png
+*.jpg

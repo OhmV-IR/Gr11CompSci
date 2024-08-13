@@ -1,0 +1,4 @@
+this is a first testing sentence
+this is a second testing sentence
+this program stores all the previous inputs in a text file for future reading
+this is such a great program :), I can even add capitals and other special characters like these -> &!@(#\mnnO(JU:(*732
